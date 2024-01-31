@@ -1,6 +1,6 @@
 # Automated Flood Alert System with Arduino Nano and SIM900a
 
-![FloodGuard-Circuit]([https://github.com/DigtaAl/Netfarms-PKMKC23-/blob/master/Dokumen/Foto/IMG_20230930_154555.jpg](https://github.com/DigtaAl/Automated-Flood-Alert-System-with-Arduino-Nano-and-SIM900a/blob/master/Dokumen/Circuit.png))
+![FloodGuard-Circuit](https://github.com/DigtaAl/Automated-Flood-Alert-System-with-Arduino-Nano-and-SIM900a/blob/master/Dokumen/Circuit.png)
 
 ## Background
 
